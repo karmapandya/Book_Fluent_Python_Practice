@@ -1,1 +1,1 @@
-# Python Code from book 'Fluent Python'
+# Python Code Practice from book 'Fluent Python'
